@@ -30,8 +30,7 @@ capture = cv2.VideoCapture('YOUR__FILE_NAME')
 
 ## Sample outputs:
 
-<a href="https://gyazo.com/6aa2fbd65cadf4661a5ddd923a0df931"><img src="../moving_car" alt="https://gyazo.com/6aa2fbd65cadf4661a5ddd923a0df931" width="400"/></a>
-
 <a href="https://gyazo.com/efa1b79a0086158c03884bb4029df9b0"><img src="https://i.gyazo.com/efa1b79a0086158c03884bb4029df9b0.gif" alt="https://gyazo.com/efa1b79a0086158c03884bb4029df9b0" width="400"/></a>
 
 <a href="https://gyazo.com/f416270823f87f6d0f47d003e24b298e"><img src="https://i.gyazo.com/f416270823f87f6d0f47d003e24b298e.gif" alt="https://gyazo.com/f416270823f87f6d0f47d003e24b298e" width="400"/></a>
+
